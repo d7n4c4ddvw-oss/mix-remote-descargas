@@ -1,0 +1,26 @@
+MIX REMOTE x VIDEOLYRICS — OSCURO / ICONOS SVG
+
+Extrae todo en una carpeta nueva. Esta version es independiente.
+Coloca junto a index.html tus tres archivos REALES:
+Instalar-Mix-Remote.exe
+Mix-Remote.apk
+Lyrics-Player.exe
+No estan incluidos. El ultimo se presenta como VideoLyrics portable.
+Si cambias nombres, actualiza href y textos en index.html.
+
+Abre index.html para revisar. Publica la carpeta completa con los binarios.
+No necesita dependencias externas, fuentes externas ni configuracion de backend.
+Los iconos son SVG integrados en el HTML; no requieren servicios externos.
+El mixer de portada es una ilustracion conceptual, no una captura ni demo real.
+
+PRECIOS PROPUESTOS: S/ 50 mensual; S/ 250 por seis meses.
+Los paquetes proponen los tres productos y consulta de instalacion por WhatsApp.
+Confirma que eso sea lo que realmente ofreceras antes de publicar.
+No procesa pagos, no activa licencias ni limita acceso a los archivos publicos.
+Confirma equipos, renovacion, requisitos y soporte directamente con el cliente.
+WhatsApp +51 925 225 213. Enlaces editables en app.js y textos en index.html.
+
+Cloudflare Pages permite hasta 25 MiB por archivo individual.
+Si un binario excede el limite, usa otro alojamiento o enlace externo.
+Para cambiar precios o textos: index.html. Para colores: styles.css.
+Para actualizar: reemplaza los archivos y vuelve a desplegar.
